@@ -20,5 +20,8 @@
     `{SRC_ROOT}$ mvn package`
     
     `{SRC_ROOT}$ mvn package -Prelease`
+
+##4. 수정 영역
+source branch 를 수정합니다.
     
 
